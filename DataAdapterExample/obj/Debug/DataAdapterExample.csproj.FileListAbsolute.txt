@@ -1,0 +1,6 @@
+C:\Shuja\DotNetSamples\F10\Ado.Net\DataAdapterExample\DataAdapterExample\bin\Debug\DataAdapterExample.exe.config
+C:\Shuja\DotNetSamples\F10\Ado.Net\DataAdapterExample\DataAdapterExample\bin\Debug\DataAdapterExample.exe
+C:\Shuja\DotNetSamples\F10\Ado.Net\DataAdapterExample\DataAdapterExample\bin\Debug\DataAdapterExample.pdb
+C:\Shuja\DotNetSamples\F10\Ado.Net\DataAdapterExample\DataAdapterExample\obj\Debug\DataAdapterExample.csprojResolveAssemblyReference.cache
+C:\Shuja\DotNetSamples\F10\Ado.Net\DataAdapterExample\DataAdapterExample\obj\Debug\DataAdapterExample.exe
+C:\Shuja\DotNetSamples\F10\Ado.Net\DataAdapterExample\DataAdapterExample\obj\Debug\DataAdapterExample.pdb
